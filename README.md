@@ -1,0 +1,2 @@
+# .flakes
+My NixOs config
